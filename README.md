@@ -1,6 +1,7 @@
 # This is the very first web page
 Welcome! This is the first web page created, and is created using the skills learned in 
-HTML fundamentals, and CSS Fundamentals.
+the HTML fundamentals, and CSS Fundamentals modules of the Fullstack web development course 
+from the Code Institute.
 
 ## HTML Elements
 A lot of the general HTML Elements were used to create this site. These were to build the main
